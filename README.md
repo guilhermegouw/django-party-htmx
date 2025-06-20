@@ -1,0 +1,1 @@
+# django-party-htmx
